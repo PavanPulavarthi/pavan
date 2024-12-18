@@ -1,0 +1,36 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+.landing{
+    background:url(./image/OIP.jpg);
+    background-size:cover;
+    background-position:center;
+    height:100vh;
+}
+.landing h1{
+    text-align:center;
+    padding-top: 40%;
+    font-size: 100px;
+    color:white;
+}
+.landing p{
+    text-align:center;
+    font-size: 50px;
+    color:white;
+    padding-top:250px;
+    font-style: italic;
+    padding-top: 5%;
+}
+body{
+    background-size: cover;
+}
+button{
+    /*padding:10px 50px;
+    background-color: #ca2323;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    border:none;*/
+    text-align: center;
+}

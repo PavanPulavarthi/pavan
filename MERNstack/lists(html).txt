@@ -1,0 +1,46 @@
+ol type="I">
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>Cpp</li>
+        <li>powerbi</li>
+        <li>C</li>
+        <li>Java</li>
+        <li>Python</li>
+        <li>JavaScript</li>
+        <li>MERNstack</li>
+        <li>MEANstack</li>
+        <li>DSA</li>
+        <li>communication</li>
+        <li>Resume writing</li>
+        <li>soft skills</li>
+        <li>Reasoning</li>
+     </ol>
+     <ol>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>Cpp</li>
+        <li>powerbi</li>
+        <li>C</li>
+        <li>Java</li>
+        <li>Python</li>
+        <li>JavaScript</li>
+        <li>MERNstack</li>
+        <li>communication</li>
+        <li>Resume writing</li>
+     </ol>
+     <ul>
+        <li>Html</li>
+        <li>css</li>
+        <li>java</li>
+        <li>javascript</li>
+        <li>cpp</li>
+        <li>C</li>
+        <li>python</li>
+        <li>MERNstack</li>
+     </ul>
+     <dl>
+        <dt>tea</dt>
+        <dd>---the tea is very hot</dd>
+        <dt>cool drink</dt>
+        <dd>---the drink is very cold</dd>
+     </dl>
